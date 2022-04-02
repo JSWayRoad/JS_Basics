@@ -1,5 +1,19 @@
 # JS_Basics  
 
+Application Programming Interfaces (APIs) - provide you with extra superpowers to use in your JavaScript code. 
+![Screenshot_21](https://user-images.githubusercontent.com/66359081/161376093-2ebd2556-c53a-4532-81c7-72df2cbe7059.png)
+
+**What is it?**
+
+**JavaScript is a powerful programming language that can add interactivity to a website.**  
+It was invented by Brendan Eich.  
+
+**JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time  
+a web page does more than just sit there and display static information for you to look at — displaying timely content updates,  
+interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved.**  
+
+JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)
+
 **JavaScript** — мультипарадигменный язык программирования. Поддерживает объектно-ориентированный, императивный и функциональный стили.
 
 script (сценарий) — это последовательность действий, описанных с помощью скриптового языка программирования.   
