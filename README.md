@@ -14,6 +14,11 @@ interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — y
 
 JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)
 
+JavaScript is the programming language of the Web.
+
+Базовая триада - HTML(определяет содержимое веб-стр), CSS(определяет внешний вид веб-стр), JS(определяет поведение веб-стр).  
+
+
 **JavaScript** — мультипарадигменный язык программирования. Поддерживает объектно-ориентированный, императивный и функциональный стили.
 
 script (сценарий) — это последовательность действий, описанных с помощью скриптового языка программирования.   
