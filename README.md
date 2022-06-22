@@ -16,8 +16,12 @@ JavaScript is a scripting language that enables you to create dynamically updati
 
 JavaScript is the programming language of the Web.
 
-Базовая триада - HTML(определяет содержимое веб-стр), CSS(определяет внешний вид веб-стр), JS(определяет поведение веб-стр).  
+JavaScript is part of the triad of technologies that all Web  
+developers must learn: HTML to specify the content of web  
+pages, CSS to specify the presentation of those pages, and  
+JavaScript to specify their behavior
 
+JavaScript is a case-sensitive language
 
 **JavaScript** — мультипарадигменный язык программирования. Поддерживает объектно-ориентированный, императивный и функциональный стили.
 
