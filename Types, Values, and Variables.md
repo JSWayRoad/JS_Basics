@@ -120,3 +120,21 @@ gives it an initial set of properties that define:
 ## Type Conversions
 ![Screenshot_2](https://user-images.githubusercontent.com/66359081/175017601-1593845c-224f-489d-9ab9-69fc57cb0fc0.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/66359081/175017610-4ee8062a-ba5f-46d9-ba1a-f35311cdff4e.png)
+
+# Variables  
+
+## Variable Declaration  
+
+Before you use a variable in a JavaScript program, you should declare it.
+
+**The scope of a variable** is the region(фрагмент) of your program source code in which it is defined(в котором её можно считать определённой).  
+
+A global variable has **global scope**; it is defined everywhere in your JavaScript code.  
+variables declared within a function are defined only within the body of the function. They are local variables and have **local scope**.  
+Within the body of a function, a local variable takes precedence over a global variable with the same name.
+
+JavaScript’s function scope means that all variables declared within a function are visible throughout the body of the function.  
+Curiously, this means that variables are even visible before they are declared. This feature of JavaScript is informally known as **hoisting**:  
+JavaScript code behaves as if all variable declarations in a function (but not any associated assignments) are “hoisted” to the top of the functio
+
+
