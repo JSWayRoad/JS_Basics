@@ -61,7 +61,13 @@ The **undefined** value represents a deeper kind of absence. It is
 - the value of variables that have not been initialized  
 - the value you get when you query the value of an object property or array element that does not exist  
 - the undefined value is also returned by functions that have no return value, and the value of function parameters for which no argument is supplied.  
-- ndefined is a predefined global variable (not a language keyword like null) that is initialized to the undefined value.
+- ndefined is a predefined global variable (not a language keyword like null) that is initialized to the undefined value.  
+
+**undefined** выводится при попытке доступа к:
+неинициализированной переменной number;
+несуществующему свойству объекта movie.year;
+несуществующему элементу массива movies[3].
+
 
 ## Symbols  
 
