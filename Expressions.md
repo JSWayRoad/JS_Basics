@@ -26,3 +26,8 @@ expression [ expression ]
 If the property name is a reserved word or includes spaces or punctuation characters, or when it is a number (for arrays), you  
 must use the square bracket notation. Square brackets are also used when the property name is not static but is itself the result of a computation.
 
+## Optional chaining (?.)
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining  
+**The optional chaining** operator (?.) enables you to read the value of a property located deep  
+within a chain of connected objects without having to check that each reference in the chain is valid.
