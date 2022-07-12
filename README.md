@@ -7,25 +7,15 @@ JavaScript: pocket refernce 3rd edition - https://media.oiipdf.com/pdf/3b217f0a-
 Application Programming Interfaces (APIs) - provide you with extra superpowers to use in your JavaScript code. 
 ![Screenshot_21](https://user-images.githubusercontent.com/66359081/161376093-2ebd2556-c53a-4532-81c7-72df2cbe7059.png)
 
-**What is it?**
+## What is JavaScript?  
 
-**JavaScript is a powerful programming language that can add interactivity to a website.**  
-It was invented by Brendan Eich.  
+JavaScript is a versatile scripting language that enables developers to create dynamic, interactive web applications.  
+JavaScript is used in a wide range of web development tasks, including front-end development, back-end development,  
+game development, and mobile app development.
 
-**JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time  
-a web page does more than just sit there and display static information for you to look at — displaying timely content updates,  
-interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved.**  
-
-JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)
-
-JavaScript is the programming language of the Web.
-
-JavaScript is part of the triad of technologies that all Web  
-developers must learn: HTML to specify the content of web  
-pages, CSS to specify the presentation of those pages, and  
-JavaScript to specify their behavior
-
-JavaScript is a case-sensitive language
+JavaScript was invented by Brendan Eich in 1995.  
+ECMAScript is a JavaScript standard meant to ensure the interoperability of web pages across different web browsers.  
+It is standardized by Ecma International according to the document ECMA-262.
 
 **JavaScript** — мультипарадигменный язык программирования. Поддерживает объектно-ориентированный, императивный и функциональный стили.
 
