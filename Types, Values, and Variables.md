@@ -121,7 +121,9 @@ gives it an initial set of properties that define:
 ![Screenshot_2](https://user-images.githubusercontent.com/66359081/175017601-1593845c-224f-489d-9ab9-69fc57cb0fc0.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/66359081/175017610-4ee8062a-ba5f-46d9-ba1a-f35311cdff4e.png)
 
-# Variables  
+# Variables    
+
+A variable is a property of a special internal object, associated with the currently executing block/function/script.
 
 ## Variable Declaration  
 
