@@ -123,7 +123,8 @@ gives it an initial set of properties that define:
 
 # Variables    
 
-A variable is a property of a special internal object, associated with the currently executing block/function/script.
+A variable is a property of a special internal object, associated with the currently executing block/function/script.  
+Working with variables is actually working with the properties of that object.
 
 ## Variable Declaration  
 
